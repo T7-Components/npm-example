@@ -1,6 +1,7 @@
 # @t7/npm-example
 
 ```sh
+# Install via NPM.
 npm install @t7/npm-example --save-dev
 ```
 
