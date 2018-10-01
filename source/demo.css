@@ -1,0 +1,48 @@
+/*
+Body.
+==================================================
+*/
+
+html {
+  font-family: "Arial", sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+body {
+  padding: 20px;
+}
+
+a {
+  color: #00f;
+}
+
+body > div > hr {
+  margin-inline: -20px;
+}
+
+/*
+Spacing.
+==================================================
+*/
+
+p,
+dl,
+hr,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ol,
+ul,
+pre,
+table,
+address,
+fieldset,
+figure,
+blockquote {
+  margin: 0;
+  margin-block-end: 20px;
+}
