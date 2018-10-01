@@ -130,7 +130,7 @@ When publishing a package for the first time, you will need to specify that it i
 npm publish --access public
 ```
 
-When making updates to an existing package, you will need to increment the version. This is because NPM will not let you overwrite a version once it has been published. Usually this will be a minor `"patch"`.
+When making updates to an existing package, you will need to increment the version. This is because NPM will not let you overwrite a version once it has been published. Usually this will be a small `"patch"`.
 
 ```sh
 # Patch update: "0.0.0" to "0.0.1"
