@@ -36,7 +36,7 @@ If you do not see your username listed, then contact an admin of the T7 organiza
 
 ---
 
-## Step 2: Add user
+## Step 2: Login
 
 Assuming you have an NPM account, you should be logged in locally. If you are unsure, type this in the command line.
 
