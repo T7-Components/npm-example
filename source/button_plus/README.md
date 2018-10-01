@@ -2,7 +2,7 @@
 import { ButtonPlus } from '@t7/npm-example'
 ```
 
-This is an example component. It increments a counter, and returns its value.
+This is an example component. It increments a number, and returns the new value.
 
 It accepts the following props.
 

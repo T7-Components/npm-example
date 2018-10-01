@@ -2,7 +2,7 @@
 import { ButtonMinus } from '@t7/npm-example'
 ```
 
-This is an example component. It decrements a counter, and returns its value.
+This is an example component. It decrements a number, and returns the new value.
 
 It accepts the following props.
 
