@@ -126,7 +126,7 @@ If you would like to practice incrementing the package version and publishing to
 When publishing a package for the first time, you will need to specify that it is public. For safety, the default is `"private"` but everything we publish under the `"@t7/…"` banner is public. Run this command.
 
 ```sh
-# First publish
+# First publish.
 npm publish --access public
 ```
 
