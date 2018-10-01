@@ -41,9 +41,9 @@ Test coverage:
 
 Component documentation:
 
-- [ButtonMinus](https://github.com/t7-components/forms/tree/master/source/button_minus/README.md)
+- [ButtonMinus](https://github.com/t7-components/npm-example/tree/master/source/button_minus/README.md)
 
-- [ButtonPlus](https://github.com/t7-components/forms/tree/master/source/button_plus/README.md)
+- [ButtonPlus](https://github.com/t7-components/npm-example/tree/master/source/button_plus/README.md)
 
 ---
 
@@ -59,4 +59,4 @@ All the lines above are typical of what we would expect to have within our "root
 
 For this repo specifically, here are further instructions on how to publish to NPM, and which steps to take in order to run unit tests and generate the demo page…
 
-- [README_PUBLISH.md](https://github.com/t7-components/forms/tree/master/README_PUBLISH.md)
+- [README_PUBLISH.md](https://github.com/t7-components/npm-example/tree/master/README_PUBLISH.md)

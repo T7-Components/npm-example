@@ -20,7 +20,9 @@ class ButtonPlus extends React.Component {
     let { count } = this.props
 
     // Increment.
-    count++
+    try {
+      count++
+    } catch (e) {}
 
     // Ensure numeric.
     if (isNaN(count)) {
