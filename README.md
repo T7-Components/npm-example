@@ -4,7 +4,7 @@ This is a dummy repo, to explain how to publish T7's React packages to NPM.
 
 ```sh
 # Install via NPM.
-npm install @t7/npm-example --save-dev
+npm install @t7/npm-example --save
 ```
 
 To use the CSS, be sure to import it into your project.
